@@ -1,4 +1,7 @@
-import java.util.Scanner;
+// HJ11 数字颠倒 
+// HJ12 字符串反转
+// 两题同理
+import java.util.*;
 public class Main {
     public static void main(String arg[]) {
         Scanner sc = new Scanner(System.in);
