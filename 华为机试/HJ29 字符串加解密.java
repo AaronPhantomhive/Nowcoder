@@ -18,3 +18,4 @@ public class Main{
         }
     }
 }
+// 同类型题还有HJ36 字符串加密
